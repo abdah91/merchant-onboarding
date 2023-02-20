@@ -1,0 +1,7 @@
+_class,_id,address,createdDate,email,identificationNumber,identificationStatus,licenseNumber,licenseStatus,name,otp,phone,status
+com.merchant.model.Merchant,63f2864502b811511340b44c,270m johat town ,2023-02-19T20:27:41.383Z,abdullah@gmail.com,,,,,tfalib,,12312313,
+com.merchant.model.Merchant,63f287ab39558e6cd2a3e295,270m johat town ,2023-02-19T20:33:39.699Z,abdullah@gmail.com,,,,,tfalib,,12312313,Pending
+com.merchant.model.Merchant,63f288a339558e6cd2a3e297,aaaaaaaaaaa johat town ,2023-02-19T20:44:38.023Z,aabdullah@gmail.com,aaaaaaaaa,,aaaaaaaaaaaa,,aaaaaaaaaaa,,aaaaaaaa,Pending
+com.merchant.model.Merchant,63f28c86058c742b9ffeba98,bbbbbb johat town ,2023-02-19T20:54:22.995Z,babdullah@gmail.com,bbbbbb,,bbbbbb,,bbbbbb,,bbbbbb,Pending
+com.merchant.model.Merchant,63f28d88aee6364bbe25bef6,bbbbbb1 johat town ,2023-02-19T20:58:41.533Z,b1abdullah@gmail.com,bbbbbb1,,bbbbbb1,,bbbbbb1,,bbbbbb1,Pending
+com.merchant.model.Merchant,63f290343a831c399f6bce5f,cccccc johat town ,2023-02-19T21:10:04.728Z,cabdullah@gmail.com,cccccc,Pending,cccccc,Pending,cccccc,59c408,cccccc,verified

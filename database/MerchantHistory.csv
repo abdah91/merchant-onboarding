@@ -1,0 +1,22 @@
+_class,_id,activity,date,merchant
+com.merchant.model.MerchantHistory,63f2864502b811511340b44d,new Merchant is created with email:abdullah@gmail.com,,63f2864502b811511340b44c
+com.merchant.model.MerchantHistory,63f287ab39558e6cd2a3e296,new Merchant is created with email:abdullah@gmail.com,,63f287ab39558e6cd2a3e295
+com.merchant.model.MerchantHistory,63f288a339558e6cd2a3e298,new Merchant is created with email:abdullah@gmail.com,,63f288a339558e6cd2a3e297
+com.merchant.model.MerchantHistory,63f28a3da0e0a057fc091b7b,new Merchant is created with email:aabdullah@gmail.com,,63f288a339558e6cd2a3e297
+com.merchant.model.MerchantHistory,63f28c87058c742b9ffeba99,new Merchant is created with email:babdullah@gmail.com,2023-02-19T20:54:31.017Z,63f28c86058c742b9ffeba98
+com.merchant.model.MerchantHistory,63f28d032e384f7e3dd5a97b,new Merchant is created with email:babdullah@gmail.com,2023-02-19T20:56:35.485Z,63f28d032e384f7e3dd5a97a
+com.merchant.model.MerchantHistory,63f28d88aee6364bbe25bef7,new Merchant is created with email:b1abdullah@gmail.com,2023-02-19T20:58:48.957Z,63f28d88aee6364bbe25bef6
+com.merchant.model.MerchantHistory,63f28d99aee6364bbe25bef8,new Merchant is created with email:b1abdullah@gmail.com,2023-02-19T20:59:05.550Z,63f28d032e384f7e3dd5a97a
+com.merchant.model.MerchantHistory,63f28dafaee6364bbe25bef9,Merchant data is updated with email:b1abdullah@gmail.com,2023-02-19T20:59:27.870Z,63f28d032e384f7e3dd5a97a
+com.merchant.model.MerchantHistory,63f28dbaaee6364bbe25befa,Merchant data is updated with email:b1abdullah@gmail.com,2023-02-19T20:59:38.270Z,63f28d032e384f7e3dd5a97a
+com.merchant.model.MerchantHistory,63f28dc6aee6364bbe25befb,Merchant name changed from bbbbbb1 tobbbbbb11,2023-02-19T20:59:50.355Z,63f28d032e384f7e3dd5a97a
+com.merchant.model.MerchantHistory,63f28dc6aee6364bbe25befc,Merchant Phone changed from bbbbbb1 tobbbbbb11,2023-02-19T20:59:50.369Z,63f28d032e384f7e3dd5a97a
+com.merchant.model.MerchantHistory,63f28dc6aee6364bbe25befd,Merchant data is updated with email:b1abdullah@gmail.com,2023-02-19T20:59:50.376Z,63f28d032e384f7e3dd5a97a
+com.merchant.model.MerchantHistory,63f28e96428f6d34793e38ba,Merchant OTP is verified with email:b1abdullah@gmail.com,2023-02-19T21:03:18.503Z,63f28d032e384f7e3dd5a97a
+com.merchant.model.MerchantHistory,63f290343a831c399f6bce60,new Merchant is created with email:cabdullah@gmail.com,2023-02-19T21:10:12.178Z,63f290343a831c399f6bce5f
+com.merchant.model.MerchantHistory,63f290863a831c399f6bce61,Merchant OTP is verified with email:cabdullah@gmail.com,2023-02-19T21:11:33.984Z,63f290343a831c399f6bce5f
+com.merchant.model.MerchantHistory,63f295ce9b959769aebf78ae,new Merchant is created with email:cabdullah@gmail.com,2023-02-19T21:34:06.972Z,63f295ce9b959769aebf78ad
+com.merchant.model.MerchantHistory,63f2a427e0ec161c2b640b5e,new Merchant is created with email:cabdullah@gmail.com,2023-02-19T22:35:19.120Z,63f2a427e0ec161c2b640b5d
+com.merchant.model.MerchantHistory,63f2a473e0ec161c2b640b5f,Merchant OTP is verified with email:cabdullah@gmail.com,2023-02-19T22:36:35.266Z,63f295ce9b959769aebf78ad
+com.merchant.model.MerchantHistory,63f2a483e0ec161c2b640b60,Merchant OTP is verified with email:cabdullah@gmail.com,2023-02-19T22:36:51.956Z,63f2a427e0ec161c2b640b5d
+com.merchant.model.MerchantHistory,63f2a486e0ec161c2b640b61,Merchant OTP is verified with email:cabdullah@gmail.com,2023-02-19T22:36:54.629Z,63f290343a831c399f6bce5f
